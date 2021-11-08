@@ -1,2 +1,2 @@
 # CSES-Practice-Problem
-Contains solutions to various CSES Problems
+This repository contains solutions to various CSES Problems.
